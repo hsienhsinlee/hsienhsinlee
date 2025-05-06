@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @hsienhsinlee
-- 👀 I’m interested in computer architecture, chip design, and emerging hardware technologies.
-- 🌱 I’m currently enjoying all machine learing that are beyong logical explanation.
-- 💞️ I’m looking to collaborate on systems for machine learning topic.
+- 👀 I’m interested in AI systems, computer architecture, chip design, and emerging hardware technologies.
+- 🌱 I’m currently enjoying all machine learning techniques that are beyond logical explanation.
+- 💞️ I’m looking to collaborate on systems for machine learning topics.
 - 📫 I can be reached via lee.sean@gmail.com
 
 <!---
